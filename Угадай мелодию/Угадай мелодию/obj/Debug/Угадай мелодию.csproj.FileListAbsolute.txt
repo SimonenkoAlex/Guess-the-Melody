@@ -1,0 +1,57 @@
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.exe.config
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.exe
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.pdb
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csprojAssemblyReference.cache
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.Properties.Resources.resources
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.GenerateResource.cache
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.CoreCompileInputs.cache
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.exe
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.pdb
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FMain.resources
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FParam.resources
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Interop.WMPLib.dll
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\AxInterop.WMPLib.dll
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Interop.WMPLib.dll
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\AxInterop.WMPLib.dll
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.ResolveComReference.cache
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FGame.resources
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FMessage.resources
+D:\Мои документы\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Sounds\KLING.WAV
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Sounds\KLING.WAV
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.exe.config
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.exe
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.pdb
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\Interop.WMPLib.dll
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\bin\Debug\AxInterop.WMPLib.dll
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csprojAssemblyReference.cache
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Interop.WMPLib.dll
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\AxInterop.WMPLib.dll
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.ResolveComReference.cache
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FGame.resources
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FMessage.resources
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FMain.resources
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FParam.resources
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.Properties.Resources.resources
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.GenerateResource.cache
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.CoreCompileInputs.cache
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.exe
+E:\My Documents\MS Visual Studio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.pdb
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csprojAssemblyReference.cache
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Interop.WMPLib.dll
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\AxInterop.WMPLib.dll
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.ResolveComReference.cache
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FGame.resources
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FMessage.resources
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FMain.resources
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FParam.resources
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.GenerateResource.cache
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.exe
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.pdb
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\bin\Debug\Sounds\KLING.WAV
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.exe.config
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.exe
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.pdb
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\bin\Debug\Interop.WMPLib.dll
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\bin\Debug\AxInterop.WMPLib.dll
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.Properties.Resources.resources
+E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.CoreCompileInputs.cache
