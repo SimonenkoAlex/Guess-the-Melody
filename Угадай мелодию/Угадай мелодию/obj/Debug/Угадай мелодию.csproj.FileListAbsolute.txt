@@ -55,3 +55,22 @@ E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мело
 E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\bin\Debug\AxInterop.WMPLib.dll
 E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.Properties.Resources.resources
 E:\My Documents\MSVisualStudio\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.CoreCompileInputs.cache
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\bin\Debug\Sounds\KLING.WAV
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.exe.config
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.exe
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\bin\Debug\Угадай мелодию.pdb
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\bin\Debug\Interop.WMPLib.dll
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\bin\Debug\AxInterop.WMPLib.dll
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csprojAssemblyReference.cache
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Interop.WMPLib.dll
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\AxInterop.WMPLib.dll
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.ResolveComReference.cache
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FGame.resources
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FMessage.resources
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FMain.resources
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.FParam.resources
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай_мелодию.Properties.Resources.resources
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.GenerateResource.cache
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.csproj.CoreCompileInputs.cache
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.exe
+C:\Program_Project\GitHub\Guess-the-Melody\Угадай мелодию\Угадай мелодию\obj\Debug\Угадай мелодию.pdb

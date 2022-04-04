@@ -14,7 +14,7 @@ namespace Угадай_мелодию
         static public int GameDuration = 60; // продолжительность игры
         static public int MusicDuration = 10; // продолжительность одного музыкального трека
         static public bool randomStart = false; // начинать проигрование музыкальной композиции со случайного места
-        static public string LastFolder = " "; // предыдущая папка
+        static public string LastFolder = ""; // предыдущая папка
         static public bool AllDirectores = false; // нужно ли обрабатывать вложенные папки
         static public string answer = " ";
 

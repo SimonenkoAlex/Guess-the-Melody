@@ -56,6 +56,9 @@ namespace Угадай_мелодию
         {
             timer1.Stop();
             WMP.Ctlcontrols.stop();
+            btnContinue.Enabled = false;
+            btnNext.Enabled = false;
+            btnPause.Enabled = false;
             //if (Convert.ToInt32(lbCounter1.Text) == Convert.ToInt32(lbCounter2.Text))
             //{
             //    lbWin.Visible = true;
